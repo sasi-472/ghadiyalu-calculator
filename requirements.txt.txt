@@ -2,4 +2,4 @@ streamlit
 pandas
 astral
 pytz
-openpyxl
+openpyxl>=3.1.0
