@@ -1,5 +1,5 @@
-streamlit==1.30.0
-pandas==2.1.4
-astral==3.2
+streamlit
+pandas>=2.2.0
+openpyxl
+astral
 pytz
-openpyxl==3.1.2
