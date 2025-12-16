@@ -1,5 +1,4 @@
 streamlit
 pandas>=2.2.0
-openpyxl
-astral
 pytz
+reportlab
